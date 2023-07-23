@@ -5,3 +5,5 @@ build
 ios/pods
 node_modules
 vendor
+xcuserdata
+xcshareddata
