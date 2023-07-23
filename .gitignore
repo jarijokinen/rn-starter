@@ -1,0 +1,7 @@
+build
+.gradle
+*.keystore
+!debug.keystore
+ios/pods
+node_modules
+vendor
